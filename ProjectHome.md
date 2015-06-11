@@ -1,0 +1,1 @@
+PolyPartition has moved to GitHub. Get the latest source at https://github.com/ivanfratric/polypartition
